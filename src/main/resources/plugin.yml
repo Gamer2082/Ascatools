@@ -1,0 +1,20 @@
+name: Ascatools
+version: '${version}'
+main: fr.Ascaria.ascatools.Ascatools
+api-version: '1.16'
+prefix: ASTLA
+authors: [Gamer_m2082]
+description: Ascaria tools plugin/mod
+website: https://ascaria.fr
+commands:
+  sur:
+    permission: tools.manag
+  che:
+    permission: tools.manag
+  sei:
+    permission: tools.manag
+  dieu:
+    permission: tools.manag
+
+
+
